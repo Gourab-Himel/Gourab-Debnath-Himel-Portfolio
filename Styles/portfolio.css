@@ -227,3 +227,47 @@ nav .menu a{
     color: #757575;
     line-height: 28px;
 }
+footer{
+    background-color: #FFF8F3;
+    padding: 130px 0;
+    margin-top: 130px;
+    
+}
+footer .footer-content{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0px auto;
+    display: flex;
+    gap: 116px;
+}
+.footer-content .social{
+    max-width: 562px;
+}
+.footer-content .social h2{
+    font-size: 35px;
+    color: #111818;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+.footer-content .social p{
+    font-size: 18px;
+    color: #474747;
+    line-height: 28px;
+    margin-bottom: 30px;
+}
+.footer-content .icons a{
+    margin-right: 24px;
+}
+.footer-content form input[type="text"],[type="email"],textarea{
+    width: 461px;
+    padding: 18px 31px;
+    margin-bottom: 24px;
+    border: none;
+    border-radius: 5%;
+    color: #757575;
+}
+form h2{
+    font-size: 25px;
+    color: #111818;
+    margin-bottom: 20px;
+}
