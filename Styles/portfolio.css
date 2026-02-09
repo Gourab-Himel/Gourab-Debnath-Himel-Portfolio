@@ -30,6 +30,10 @@
     margin: 20px;
     
 }
+.btn:hover {
+    background-color: #120e0b;
+    
+}
 .btn1{
     background-color: transparent;
     color: #FD6E0A;
@@ -40,7 +44,11 @@
     border: 2px solid #FD6E0A;
     border-radius: 5%;
 }
-
+.btn1:hover {
+    background-color: #FD6E0A;
+    color: rgb(255, 255, 255);
+    
+}
 .text-center {
     text-align: center;
 }
