@@ -20,7 +20,7 @@
 
 .btn{
     background-color: #FD6E0A;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 18px 35px;
     font-size: 20px;
     font-weight: bold;
@@ -28,7 +28,7 @@
     border: none;
     border-radius: 5%;
     margin: 20px;
-    
+    text-decoration: none;
 }
 .btn:hover {
     background-color: #120e0b;
@@ -43,6 +43,7 @@
     cursor: pointer;
     border: 2px solid #FD6E0A;
     border-radius: 5%;
+    text-decoration: none;
 }
 .btn1:hover {
     background-color: #FD6E0A;
@@ -94,10 +95,12 @@ nav .menu{
     gap: 51px;
     align-items: center;
 }
+
 nav .menu a{
     text-decoration: none;
     color: #474747;
     font-size: 20px;
+    
 }
 #banner {
     margin: 47px 38px 0px 230px;
